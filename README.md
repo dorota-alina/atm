@@ -1,2 +1,2 @@
 # atm
-tool simulating ATM
+This is a tool simulating ATM.
